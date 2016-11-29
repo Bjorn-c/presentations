@@ -12,7 +12,7 @@ We vertrekken steeds van **gegevens** in de volgende formaten:
 <ol>
     <li>
         <b>DWG</b>
-        <span style="color:green; font-size: 175%;">*</span> <!-- .element: class="fragment" data-fragment-index="4" -->
+        <span style="color:green; font-size: 175%;">*</span> <!-- .element: class="fragment" data-fragment-index="5" -->
     </li>
     <li>STAR APIC (uitzonderlijk)</li> <!-- .element: class="fragment" data-fragment-index="1" -->
     <li>LANDXML</li> <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -23,4 +23,29 @@ We vertrekken steeds van **gegevens** in de volgende formaten:
 Note:
 Het **meest wenselijke formaat** is een complete **DWG** die op een **logische wijze** is opgebouwd, en dit het liefst volgens een standaard structuur.
 
+<!--v-->
+
+> Wij gaan hier verder met het formaat DWG.
+
 <!--s-->
+
+## DWG
+
+Een DWG werd aangeleverd door Lieve, in het formaat DXF
+
+-   Locatie: Brussel-Klein-Eiland
+-   Lengte: ongeveer 104m
+-   Intersante lagen:
+    -   LEFT RAIL LINE
+    -   LEFT RAIL POINTS
+    -   ODOMETER
+    -   RIGHT RAIL LINE
+    -   RIGHT RAIL POINTS
+    -   TRACK LINE
+    -   TRACK POINTS
+
+Note:
+
+-   Een DWG kan aangeleverd worden als DXF, deze vorm is een **open formaat**, en wordt volledig ondersteunt door Autodesk CAD producten.
+-   Met de aangeleverde opmeting hebben we voldoende informatie op een basis trace-studie uit te voeren.
+-
