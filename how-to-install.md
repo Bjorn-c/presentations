@@ -23,7 +23,7 @@ No worries, u can find it here:
 Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe</pre>
 </a>
 
-Note: the fileserver on witch the content is hosted, is limited by access, u should ask permision by calling your it service.
+Note: The fileserver on witch the content is hosted, is limited by access, u should ask permision by calling your it service.
 
 <!--v-->
 ### What to do next?
