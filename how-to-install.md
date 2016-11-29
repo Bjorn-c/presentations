@@ -16,16 +16,14 @@
 
 <!--v-->
 
-No worries, u can find it here (internal Infrabel server)
-
-Note: the fileserver on witch the content is hosted, is limited by access, u should ask permision by calling your it service.
+No worries, u can find it here:
 
 <a href="\\msnet\iap1\IAMA016\PRODLib\Common\Tools\Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe"><pre>\\msnet\iap1\IAMA016\PRODLib\Common\Tools\Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe</pre></a>
 
-> So after clicking the above link what should I do next? <!-- .element: class="fragment" data-fragment-index="1" -->
+Note: the fileserver on witch the content is hosted, is limited by access, u should ask permision by calling your it service.
 
 <!--v-->
-### Next
+### What to do next?
 
 -   U should accept any warnings about this application being harmful. <!-- .element: class="fragment" data-fragment-index="1" -->
 -   Make sure u select to RUN the file. <!-- .element: class="fragment" data-fragment-index="2" -->
