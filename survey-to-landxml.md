@@ -56,12 +56,25 @@ Note:
 ### Gegevens <!-- .element: class="fragment" data-fragment-index="0" -->
 <ol> <!-- .element: class="fragment" data-fragment-index="0" -->
     <li>spoorbreedte</li> <!-- .element: class="fragment" data-fragment-index="0" -->
-    <li>opgemeten punten op beide rails, en in de as van het spoor</li> <!-- .element: class="fragment" data-fragment-index="1" -->
+    <li>opgemeten punten op beide rails, en in de as van het spoor (X;Y;Z)</li> <!-- .element: class="fragment" data-fragment-index="1" -->
     <li>relatie tussen de opgemeten punten (polylijn)</li> <!-- .element: class="fragment" data-fragment-index="2" -->
     <li>verkanting</li> <!-- .element: class="fragment" data-fragment-index="3" -->
     <li>In de laag _comments_ kunnen we speciale punten en opmerkingen terug vinden.</li> <!-- .element: class="fragment" data-fragment-index="4" -->
-    <li>Kilometrering</li> <!-- .element: class="fragment" data-fragment-index="4" -->
+    <li>Kilometrering</li> <!-- .element: class="fragment" data-fragment-index="5" -->
 </ol>
 
 Note:
 In een normare opmeting zal er veel meer informatie zitten, katena-palen, hectometer-palen, kilometer-palen, ... maar voor een voorbeeld van een tracestudie is dit niet nodig.
+
+<!--s-->
+
+## Ontwerp
+Nu we de bestaande gegevens hebben geanalyseerd, kunnen we starten met het spoorontwerp.
+
+-   Aanmaken novapoint project, en structuur
+-   Zoeken van de aansluiting met het bestaande tracé. (<small>Let op het zoeken naar de bestaande verkanting!</small>)
+-   Ontwerpen van ons nieuwe spoor.
+-   Opmaken van een terrein a.d.h.v. parallellen aan de spooras.
+-   Opmaken van een nieuw lengteprofiel.
+-   Instellen van de gewenste snelheden en verkanting
+-   Berekenen het 3D-model
