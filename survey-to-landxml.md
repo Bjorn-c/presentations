@@ -72,7 +72,7 @@ In een normare opmeting zal er veel meer informatie zitten, katena-palen, hectom
 Nu we de bestaande gegevens hebben geanalyseerd, kunnen we starten met het spoorontwerp.
 
 -   Aanmaken novapoint project, en structuur
--   Zoeken van de aansluiting met het bestaande tracé. (<small>Let op het zoeken naar de bestaande verkanting!</small>)
+-   Zoeken van de aansluiting met het bestaande tracé. <small>Let op het zoeken naar de bestaande verkanting!</small>
 -   Ontwerpen van ons nieuwe spoor.
 -   Opmaken van een terrein a.d.h.v. parallellen aan de spooras.
 -   Opmaken van een nieuw lengteprofiel.
