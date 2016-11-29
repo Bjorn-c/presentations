@@ -7,11 +7,11 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 
 <!--s-->
 
-##### We vertrekken steeds van gegevens in de volgende formaten:
+We vertrekken steeds van **gegevens** in de volgende formaten:
 
-1.  LANDXML
+1.  **LANDXML**
 2.  STAR APIC
-3.  DWG
+3.  **DWG**
 4.  FOTOGRAMMETRIE
 5.  SCAN of FOTOS
 
