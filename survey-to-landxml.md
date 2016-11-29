@@ -2,6 +2,9 @@
 
 > Van bestaande gegevens naar een werkbaar formaat.
 
+Note:
+Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opgemeten gegevens, een landXML file te maken.
+
 <!--s-->
 
 We vertrekken steeds van <b>gegevens</b> in de volgende formaten:
@@ -12,6 +15,6 @@ We vertrekken steeds van <b>gegevens</b> in de volgende formaten:
 5.   SCAN of FOTOS
 
 Note:
-Ik probeer hier kort de stappen te beschrijven die nodig zijn om aan de hand van opgemeten gegevens, een landXML file te maken.
+In dit voorbeeld ga ik er van uit dat we werken met een opmeting aangeleverd in dwg.
 
 <!--s-->
