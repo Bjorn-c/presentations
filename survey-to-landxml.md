@@ -9,11 +9,13 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 
 We vertrekken steeds van **gegevens** in de volgende formaten:
 
-3.  **DWG**
-2.  STAR APIC _(uitzonderlijk)_ <!-- .element: class="fragment" data-fragment-index="1" -->
-1.  _LANDXML_ <!-- .element: class="fragment" data-fragment-index="2" -->
-4.  FOTOGRAMMETRIE <!-- .element: class="fragment" data-fragment-index="3" -->
-5.  SCAN of FOTOS <!-- .element: class="fragment" data-fragment-index="4" -->
+<ol>
+    <li>DWG</li>
+    <li>STAR APIC (uitzonderlijk)</li> <!-- .element: class="fragment" data-fragment-index="1" -->
+    <li>LANDXML</li> <!-- .element: class="fragment" data-fragment-index="2" -->
+    <li>FOTOGRAMMETRIE</li> <!-- .element: class="fragment" data-fragment-index="3" -->
+    <li>SCAN of FOTOS</li> <!-- .element: class="fragment" data-fragment-index="4" -->
+</ol>
 
 Note:
 Het **meest wenselijke formaat** is een complete **DWG** die op een **logische wijze** is opgebouwd, en dit het liefst volgens een standaard structuur.
