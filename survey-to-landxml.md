@@ -48,4 +48,20 @@ Note:
 
 -   Een DWG kan aangeleverd worden als DXF, deze vorm is een **open formaat**, en wordt volledig ondersteunt door Autodesk CAD producten.
 -   Met de aangeleverde opmeting hebben we voldoende informatie op een basis trace-studie uit te voeren.
--
+
+<!--v-->
+
+> Wat kunnen we nu afleiden uit deze aangeleverde gegevens?
+
+### Gegevens <!-- .element: class="fragment" data-fragment-index="0" -->
+<ol> <!-- .element: class="fragment" data-fragment-index="0" -->
+    <li>spoorbreedte</li> <!-- .element: class="fragment" data-fragment-index="0" -->
+    <li>opgemeten punten op beide rails, en in de as van het spoor</li> <!-- .element: class="fragment" data-fragment-index="1" -->
+    <li>relatie tussen de opgemeten punten (polylijn)</li> <!-- .element: class="fragment" data-fragment-index="2" -->
+    <li>verkanting</li> <!-- .element: class="fragment" data-fragment-index="3" -->
+    <li>In de laag _comments_ kunnen we speciale punten en opmerkingen terug vinden.</li> <!-- .element: class="fragment" data-fragment-index="4" -->
+    <li>Kilometrering</li> <!-- .element: class="fragment" data-fragment-index="4" -->
+</ol>
+
+Note:
+In een normare opmeting zal er veel meer informatie zitten, katena-palen, hectometer-palen, kilometer-palen, ... maar voor een voorbeeld van een tracestudie is dit niet nodig.
