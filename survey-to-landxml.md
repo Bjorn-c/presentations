@@ -9,13 +9,13 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 
 We vertrekken steeds van **gegevens** in de volgende formaten:
 
-1.  **LANDXML**
-2.  STAR APIC
-3.  **DWG**
-4.  FOTOGRAMMETRIE
-5.  SCAN of FOTOS
+3.  **DWG** <span style:"color: rgb(17,170,14);">&lt;&lt;</span> <!-- .element: class="fragment" data-fragment-index="6" -->
+2.  STAR APIC _(uitzonderlijk)_ <!-- .element: class="fragment" data-fragment-index="1" -->
+1.  **LANDXML** <!-- .element: class="fragment" data-fragment-index="2" -->
+4.  FOTOGRAMMETRIE <!-- .element: class="fragment" data-fragment-index="3" -->
+5.  SCAN of FOTOS <!-- .element: class="fragment" data-fragment-index="4" -->
 
 Note:
-In dit voorbeeld ga ik er van uit dat we werken met een opmeting aangeleverd in dwg.
+Het **meest wenselijke formaat** is een complete **DWG** die op een **logische wijze** is opgebouwd, en dit het liefst volgens een standaard structuur.
 
 <!--s-->
