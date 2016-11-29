@@ -18,7 +18,10 @@
 
 No worries, u can find it here:
 
-<a href="\\msnet\iap1\IAMA016\PRODLib\Common\Tools\Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe"><pre>\\msnet\iap1\IAMA016\PRODLib\Common\Tools\Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe</pre></a>
+<a href="\\msnet\iap1\IAMA016\PRODLib\Common\Tools\Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe">
+<pre>\\msnet\iap1\IAMA016\PRODLib\Common\Tools\
+Infrabel Autodesk Platform\installer\InfabelAutodeskPlatformInstaller.exe</pre>
+</a>
 
 Note: the fileserver on witch the content is hosted, is limited by access, u should ask permision by calling your it service.
 
