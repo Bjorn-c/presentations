@@ -10,7 +10,10 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 We vertrekken steeds van **gegevens** in de volgende formaten:
 
 <ol>
-    <li>DWG</li>
+    <li>
+        <b>DWG</b>
+        <span style="color:green; font-size: 175%;">*</span> <!-- .element: class="fragment" data-fragment-index="4" -->
+    </li>
     <li>STAR APIC (uitzonderlijk)</li> <!-- .element: class="fragment" data-fragment-index="1" -->
     <li>LANDXML</li> <!-- .element: class="fragment" data-fragment-index="2" -->
     <li>FOTOGRAMMETRIE</li> <!-- .element: class="fragment" data-fragment-index="3" -->
