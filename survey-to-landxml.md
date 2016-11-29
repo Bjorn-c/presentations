@@ -9,9 +9,9 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 
 We vertrekken steeds van **gegevens** in de volgende formaten:
 
-3.  **DWG** <span style:"color: rgb(17,170,14);">&lt;&lt;</span> <!-- .element: class="fragment" data-fragment-index="6" -->
+3.  **DWG**
 2.  STAR APIC _(uitzonderlijk)_ <!-- .element: class="fragment" data-fragment-index="1" -->
-1.  **LANDXML** <!-- .element: class="fragment" data-fragment-index="2" -->
+1.  _LANDXML_ <!-- .element: class="fragment" data-fragment-index="2" -->
 4.  FOTOGRAMMETRIE <!-- .element: class="fragment" data-fragment-index="3" -->
 5.  SCAN of FOTOS <!-- .element: class="fragment" data-fragment-index="4" -->
 
