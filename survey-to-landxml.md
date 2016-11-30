@@ -121,9 +121,9 @@ Export file... ![Export alignement as](https://goo.gl/HOYAei)
 ![from railway model dialog](https://goo.gl/0Ru8lv)
 
 ![examples](https://goo.gl/75ur7b)
-
-Note:
 Er zijn er nog meer, maar er konden geen extra regels worden toegevoegd.
+
+<!--s-->
 
 ### Opmerking
 
