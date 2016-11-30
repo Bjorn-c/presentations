@@ -7,6 +7,7 @@ Ik probeer kort de stappen te beschrijven die nodig zijn om aan de hand van opge
 
 <!--s-->
 
+## Gegevens
 We vertrekken steeds van **gegevens** in de volgende formaten:
 
 <ol>
@@ -31,7 +32,7 @@ Het **meest wenselijke formaat** is een complete **DWG** die op een **logische w
 
 ## DWG
 
-Een DWG werd aangeleverd door Lieve, in het formaat DXF
+Een DWG werd aangeleverd door Lieve, in het formaat DXF, op basis hier van heb ik een proefproject opgemaakt.
 
 -   Locatie: Brussel-Klein-Eiland
 -   Lengte: ongeveer 104m
@@ -47,7 +48,7 @@ Een DWG werd aangeleverd door Lieve, in het formaat DXF
 Note:
 
 -   Een DWG kan aangeleverd worden als DXF, deze vorm is een **open formaat**, en wordt volledig ondersteunt door Autodesk CAD producten.
--   Met de aangeleverde opmeting hebben we voldoende informatie op een basis trace-studie uit te voeren.
+-   Met de aangeleverde opmeting hebben we voldoende informatie om een basis trace-studie uit te voeren.
 
 <!--v-->
 
@@ -78,3 +79,50 @@ Nu we de bestaande gegevens hebben geanalyseerd, kunnen we starten met het spoor
 -   Opmaken van een nieuw lengteprofiel.
 -   Instellen van de gewenste snelheden en verkanting
 -   Berekenen het 3D-model
+
+<!--s-->
+
+## Export
+Na het maken van het ontwerp beschikken we over de mogelijkheid om het resultaat te exporteren.
+
+### Formaten
+
+-   Excel rapport (4 verschillende stijlen beschikbaar)
+-   LANDXML
+-   Leica
+-   Vedgat
+-   Tremble
+-   Novapoint
+
+Note:
+Van alle genoemd formaten worden verschillende types ondersteund, bv een volledig export van een model, gedeeltelijke export (horz./vert./...)
+
+<!--v-->
+
+#### Opslaan van het alignement
+
+Export file... ![Export alignement as](https://goo.gl/HOYAei)
+
+<!--v-->
+
+#### Alignement reports
+
+
+![Alignement reports](https://goo.gl/nmUNUc)
+
+<!--v-->
+
+### Opmerking
+
+-   Novapoint is NIET perfect, verwacht dit dan ook niet ...
+    -   controleren
+    -   raporteren 
+-   feedback eindgebruiker
+-   gewenste formaten
+
+Note:
+Novapoint is een software die steunt op een samenhangsel van oude en nieuwe componenten, veel wat in de software is gestopt, is specifiek voor de gebruiker gemaakt, en dan nooit meer opgevolgt geweest. Dit kan leiden to ongewenste resultaten!
+
+Er kan nog zéér veel worden gesleuteld aan de manier waarop eeen export wordt gemaakt binnen NovaPoint, het belangrijkste in dit verhaal is weten wat de wens is van de eindgebruiker, en een duidelijke feedback van wat kan worden verbeterd.
+
+Kijk even binnen de eigen software welke formaten er ondrsteund worden, wie weet kan Novapoint het aan om ook hiernaar te exporteren.
