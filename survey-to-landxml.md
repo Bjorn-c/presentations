@@ -120,8 +120,9 @@ Export file... ![Export alignement as](https://goo.gl/HOYAei)
 
 ![from railway model dialog](https://goo.gl/0Ru8lv)
 
-![examples](https://goo.gl/75ur7b)
-Er zijn er nog meer, maar er konden geen extra regels worden toegevoegd.
+Hieronder een selectie van wat je kan verwachten.
+![examples](https://goo.gl/BrRZ4I)
+
 
 <!--s-->
 
