@@ -47,7 +47,7 @@ De eerste opdracht dateert van 29 september 2009.
 ### Wie
 - Sponsor van het project was Ben Ferdinande. <!-- .element: class="fragment" data-fragment-index="1" -->
 - In 2011 werd het opgeleverd, en in gebruik gesteld. <!-- .element: class="fragment" data-fragment-index="2" -->
-- On 2013 werd het onderhoud van de applicatie doorgegeven aan Cattoor Bjorn <!-- .element: class="fragment" data-fragment-index="3" -->
+- Op 2013 werd het onderhoud van de applicatie doorgegeven aan Cattoor Bjorn <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <!--v-->
 
@@ -55,7 +55,7 @@ De eerste opdracht dateert van 29 september 2009.
 
 - De applicatie is geschreven in C# gebruikmaken van het .NET framework. <!-- .element: class="fragment" data-fragment-index="1" -->
 - Voor de ontwikkeling werd er gebruik gemaakt van VS. <!-- .element: class="fragment" data-fragment-index="2" -->
-- Een acces database wordt gebruikt voor het opslaan van de gegevens. <!-- .element: class="fragment" data-fragment-index="3" -->
+- Een access database wordt gebruikt voor het opslaan van de gegevens. <!-- .element: class="fragment" data-fragment-index="3" -->
 - Dossiers worden opgeslagen in het Word-document formaat. <!-- .element: class="fragment" data-fragment-index="4" -->
 - Werkfiches worden niet opgeslagen in een bestandsformaat, ze worden adhv de gegevens in de databank opgebouwd als FlowDocument. <!-- .element: class="fragment" data-fragment-index="5" -->
 
@@ -173,7 +173,7 @@ Het startscherm is het eerste scherm wat de gebruiker ziet, de volgende zaken wo
 
 De installatie van de software gebeurt aan de hand van een uitvoerbaar bestand:
 
-1. zorg voor het kopiëren van nodige bestanden <!-- .element: class="fragment" data-fragment-index="1" -->
+1. zorgt voor het kopiëren van nodige bestanden <!-- .element: class="fragment" data-fragment-index="1" -->
 2. maakt snelkoppelingen aan <!-- .element: class="fragment" data-fragment-index="1" -->
 3. zorgt voor het invullen van de warden in het register <!-- .element: class="fragment" data-fragment-index="1" -->
 4. start het update programma <!-- .element: class="fragment" data-fragment-index="2" -->
