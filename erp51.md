@@ -12,13 +12,9 @@ Een eerste kennismaking.
 
 ### Geschiedenis
 
-Op 29 september 2009 wordt Robby Cattoor de volgende opdracht gegeven:
+De eerste opdracht dateert van 29 september 2009.
 
-> Beschrijving van de opdacht op de werkfiche:
-> Onderzoek naar een nieuwe database.
-> Nazicht van de verschillende opties. 
-> Verdelen in beheersbare paketten, die elk op zich kunnen aangepakt worden en hun eigen nut bewijzen.
-> Begroting van de benodigde studie-uren van elk pakket.
+![werkfiche](https://goo.gl/s2K9L7)
 
 <!--v-->
 
