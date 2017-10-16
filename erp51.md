@@ -11,23 +11,28 @@ Een eerste kennismaking.
 
 <!--v-->
 
-- Dossierstudies
-    - Beschikbaarheid <!-- .element: class="fragment" data-fragment-index="1" -->
-    - Doel <!-- .element: class="fragment" data-fragment-index="2" -->
-    - Startscherm <!-- .element: class="fragment" data-fragment-index="3" -->
+- Scherm dossierstudies
+    - voor wie is het beschikbaar <!-- .element: class="fragment" data-fragment-index="1" -->
+    - het doel <!-- .element: class="fragment" data-fragment-index="2" -->
+    - overzicht <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <!--v-->
 
-- Werkfiches
-    - Beschikbaarheid <!-- .element: class="fragment" data-fragment-index="1" -->
-    - Doel <!-- .element: class="fragment" data-fragment-index="2" -->
-    - Startscherm <!-- .element: class="fragment" data-fragment-index="3" -->
+- Scherm werkfiches
+    - voor wie is het beschikbaar <!-- .element: class="fragment" data-fragment-index="1" -->
+    - het doel <!-- .element: class="fragment" data-fragment-index="2" -->
+    - overzicht <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <!--v-->
 
 - Installatie
     - Hoe het nu werkt <!-- .element: class="fragment" data-fragment-index="1" -->
     - Hoe het zou moeten werken <!-- .element: class="fragment" data-fragment-index="2" -->
+
+<!--v-->
+
+## Gebruikers
+Een woordje uitleg over de gebruikers.
 
 <!--s-->
 
@@ -71,13 +76,13 @@ De eerste opdracht dateert van 29 september 2009.
 
 <!--s-->
 
-## Dossierstudies
+## Scherm dossierstudies
 
 ![dossierstudies](https://goo.gl/vz192e)
 
 <!--v-->
 
-### Beschikbaarheid
+### Voor wie is het beschikbaar
 Dossierstudies kunnen alleen maar worden aangemaakt door ingenieurs, en bureauverantwoordelijken.
 
 <!--v-->
@@ -93,7 +98,7 @@ Dossierstudies kunnen alleen maar worden aangemaakt door ingenieurs, en bureauve
 
 <!--v-->
 
-### Startscherm
+### Overzicht scherm
 
 Het startscherm is het eerste scherm wat de gebruiker ziet, de volgende zaken worden weergegeven:
 
@@ -114,13 +119,13 @@ Het startscherm is het eerste scherm wat de gebruiker ziet, de volgende zaken wo
 
 <!--s-->
 
-## Werkfiches (WFT)
+## Scherm werkfiches (WFT)
 
 ![wfts](https://goo.gl/dHUkyG)
 
 <!--v-->
 
-### Beschikbaarheid
+### Voor wie is het beschikbaar
 Tekenpersoneel, ingenieurs, en bureauverantwoordelijken.
 
 <!--v-->
@@ -166,7 +171,8 @@ Het startscherm is het eerste scherm wat de gebruiker ziet, de volgende zaken wo
 
 ### Hoe het nu werkt:
 
-De installatie van de software gebeurt aan de hand van een uitvoerbaar bestand: 
+De installatie van de software gebeurt aan de hand van een uitvoerbaar bestand:
+
 1. zorg voor het kopiëren van nodige bestanden <!-- .element: class="fragment" data-fragment-index="1" -->
 2. maakt snelkoppelingen aan <!-- .element: class="fragment" data-fragment-index="1" -->
 3. zorgt voor het invullen van de warden in het register <!-- .element: class="fragment" data-fragment-index="1" -->
