@@ -55,7 +55,7 @@ De eerste opdracht dateert van 29 september 2009.
 
 - De applicatie is geschreven in C# gebruikmaken van het .NET framework. <!-- .element: class="fragment" data-fragment-index="1" -->
 - Voor de ontwikkeling werd er gebruik gemaakt van VS. <!-- .element: class="fragment" data-fragment-index="2" -->
-- Een access database wordt gebruikt voor het opslaan van de gegevens. <!-- .element: class="fragment" data-fragment-index="3" -->
+- Een access database (+- 10MB) wordt gebruikt voor het opslaan van de gegevens.  <!-- .element: class="fragment" data-fragment-index="3" -->
 - Dossiers worden opgeslagen in het Word-document formaat. <!-- .element: class="fragment" data-fragment-index="4" -->
 - Werkfiches worden niet opgeslagen in een bestandsformaat, ze worden adhv de gegevens in de databank opgebouwd als FlowDocument. <!-- .element: class="fragment" data-fragment-index="5" -->
 
